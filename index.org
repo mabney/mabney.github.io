@@ -1,3 +1,15 @@
+
+#+options: toc:nil
+
+#+begin_export html
+---
+layout: single
+title: Personal Page
+description: All the information
+author_profile: true
+---
+#+end_export
+
 * My Simple Website
 Here is where I'll put various pointers to different personal things.
 
