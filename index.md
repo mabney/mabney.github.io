@@ -3,6 +3,12 @@ layout: single
 title: Personal Page
 description: All the information
 author_profile: true
+excerpt: "Excerpt stuff"
+header:
+  overlay_image: /images/code1.jpg
+  overlay_filter: 0.5
+  image_description: "Some bad code."
+  caption: "By: Me"
 ---
 
 
